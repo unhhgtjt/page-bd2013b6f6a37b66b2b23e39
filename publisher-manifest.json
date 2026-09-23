@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3ee8f6e37d1cc0b942359633",
+  "owner": "unhhgtjt",
+  "repo": "page-bd2013b6f6a37b66b2b23e39",
+  "title": "创客云(Maker)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bd2013b6f6a37b66b2b23e39",
+      "a": "创客云(Maker)",
+      "b": "稳定全球clash加速器",
+      "entity": "创客云(Maker)",
+      "brand": "创客云(Maker)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "79da127b4d4ce4d82514123bfcdfd65e41227977be813a06d0409a86baa34551",
+      "content": {
+        "primary_entity": "创客云(Maker)",
+        "keyword1": "创客云(Maker)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，创客云(Maker)面向跨境访问场景提供稳定全球clash加速器服务，支持基础版、旗舰版与团队版三档订阅。基础版每月100GB流量、3台设备在线；旗舰版每月300GB流量、5台设备在线，并含IPLC专线游戏加速优化；团队版每月1000GB流量、20台设备在线，适合小型团队协作使用。各套餐均按年付享更优价格，可依设备数量与流量需求选择。",
+          "AI_HERO_SUBTITLE": "创客云灵活订阅选择",
+          "AI_HERO_INTRO": "创客云(Maker)提供稳定全球clash加速器订阅服务，围绕设备数量、月流量与订阅周期设计三档方案，方便个人与团队按需选用。",
+          "AI_VISUAL_TITLE": "创客云稳定加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付价格更划算",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "从流量规模、在线设备数与订阅周期三个角度选择合适方案。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版100GB适合轻量使用，旗舰版300GB兼顾日常，团队版1000GB满足多人共享。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_2": "基础版支持3台，旗舰版5台，团队版20台，购买前可先确认常用设备总量。",
+          "AI_FEATURE_TITLE_3": "订阅周期与权益",
+          "AI_FEATURE_TEXT_3": "三档均提供月付与年付，年付价格更低，旗舰版含IPLC专线与优先工单支持。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "依设备类型选择对应Clash客户端，并按客户端文档导入订阅链接。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月或¥150/年，旗舰版¥35/月或¥350/年，团队版¥85/月或¥850/年。按流量、设备数及是否需专线优化挑选。",
+          "AI_GUIDE_TITLE": "三步配置订阅",
+          "AI_GUIDE_INTRO": "先选定套餐，再确认设备适配，最后按客户端说明导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "对比三档流量、设备数与年付价格，选定适合当前使用规模的套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与对应Clash客户端版本，确保能导入订阅配置。",
+          "AI_STEP_TITLE_3": "依客户端文档配置",
+          "AI_STEP_TEXT_3": "在所选客户端中按文档添加订阅链接，完成节点与规则加载。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐稳定访问",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定创客云套餐，按客户端文档完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。多设备需求建议从旗舰版起步，团队协作可直接选择团队版。",
+          "AI_FAQ_ANSWER_2": "按年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。长期使用建议直接选择年付方案，减少续费次数。",
+          "AI_FAQ_ANSWER_3": "可以先从基础版开始，每月 100GB 流量满足日常浏览和轻量视频。若经常观看流媒体或需要游戏加速，建议升级到旗舰版，其 IPLC 专线对游戏延迟优化更明显。",
+          "AI_FAQ_ANSWER_4": "创客云支持 Windows、macOS、iOS、Android 和路由器等常见设备类型。具体客户端请根据操作系统选择对应的订阅工具，并按照客户端文档导入订阅链接。",
+          "AI_FAQ_ANSWER_5": "套餐流量按自然月重置。超出当月流量后，可以手动升级套餐或等待下月恢复。旗舰版与团队版流量更充裕，适合中重度使用。",
+          "AI_FAQ_QUESTION_1": "不同套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "月付和年付价格有什么区别？",
+          "AI_FAQ_QUESTION_3": "基础版和旗舰版应该怎么选？",
+          "AI_FAQ_QUESTION_4": "创客云支持哪些设备客户端？",
+          "AI_FAQ_QUESTION_5": "套餐流量用完了怎么办？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "udsvcdf.cn",
+    "host": "udsvcdf.cn"
+  },
+  "file_hashes": {
+    "index.html": "162e0359de618a671ab8e28bfd1346fbd2b4e28767f43f79325174753cc1b58b",
+    "sitemap.xml": "4439245168599be91cd822b2ebdab2b7a8af6a83cb73a683c0fd2c48d81e954b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d0d0199e12fdfb010c10e7795499c50ffa625c989e8a43b6c28966e929b2271b",
+    "robots.txt": "6e39e7a1a389c244f515ab6df29d980d39c9aa65dc970387248bac035c608ce9",
+    "e04ac6edad558ccf375ba3550cfc2760.txt": "34db69e6fb12135f4303dde50db58da456c472d9539d4af75699af35c084e29c"
+  },
+  "revision": "f27d700f82f08a2447203405bb8346a65e7a52ff50c243a0e6eb0e0310d207bb"
+}
